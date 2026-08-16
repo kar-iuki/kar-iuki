@@ -1,5 +1,9 @@
 # IsaacKariuki
+## 📊 Developer Metrics
 
+![GitHub Stats](./profile/stats.svg)
+
+![Top Languages](./profile/top-langs.svg)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software+Developer+|+Blockchain+Enthusiast+|+AI+Innovator&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
 </p>
