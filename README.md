@@ -1,4 +1,4 @@
-# IsaacKariuki
+# Isaac Kariuki
 ## 📊 Developer Metrics
 
 ![GitHub Stats](./profile/stats.svg)
